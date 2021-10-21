@@ -3,7 +3,7 @@ import Mailchimp from 'react-mailchimp-form'
 function App() {
   return (
     <Mailchimp
-  action='FORM_URL?u=USER_NAME&amp;id=USER_NAME' 
+  action='https://cutm.us5.list-manage.com/subscribe/post?u=e749dc1d02fdf85fab11779d4&amp;id=0d25a44211' 
   
   //Adding multiple fields:
   fields={[
